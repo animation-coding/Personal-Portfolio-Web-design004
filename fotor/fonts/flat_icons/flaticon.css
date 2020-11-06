@@ -1,0 +1,67 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 04/07/2018 08:54
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon_iconset_01.eot");
+  src: url("Flaticon_iconset_01d41d.html?#iefix") format("embedded-opentype"),
+       url("Flaticon_iconset_01.woff") format("woff"),
+       url("Flaticon_iconset_01.ttf") format("truetype"),
+       url("Flaticon_iconset_01#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon_iconset_01#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-001-workflow:before { content: "\f100"; }
+.flaticon-002-web:before { content: "\f101"; }
+.flaticon-003-vision:before { content: "\f102"; }
+.flaticon-004-handshake:before { content: "\f103"; }
+.flaticon-005-trophy:before { content: "\f104"; }
+.flaticon-006-work:before { content: "\f105"; }
+.flaticon-007-thinking:before { content: "\f106"; }
+.flaticon-008-teamwork:before { content: "\f107"; }
+.flaticon-009-target:before { content: "\f108"; }
+.flaticon-010-success:before { content: "\f109"; }
+.flaticon-011-strategy:before { content: "\f10a"; }
+.flaticon-012-startup:before { content: "\f10b"; }
+.flaticon-013-research:before { content: "\f10c"; }
+.flaticon-014-profit:before { content: "\f10d"; }
+.flaticon-015-partnership:before { content: "\f10e"; }
+.flaticon-016-money:before { content: "\f10f"; }
+.flaticon-017-money-bag:before { content: "\f110"; }
+.flaticon-018-online-shop:before { content: "\f111"; }
+.flaticon-019-mission:before { content: "\f112"; }
+.flaticon-020-meeting:before { content: "\f113"; }
+.flaticon-021-marketing:before { content: "\f114"; }
+.flaticon-022-learning:before { content: "\f115"; }
+.flaticon-023-investment:before { content: "\f116"; }
+.flaticon-024-idea:before { content: "\f117"; }
+.flaticon-025-human-resources:before { content: "\f118"; }
+.flaticon-026-growth:before { content: "\f119"; }
+.flaticon-027-piggy-bank:before { content: "\f11a"; }
+.flaticon-028-design:before { content: "\f11b"; }
+.flaticon-029-decision:before { content: "\f11c"; }
+.flaticon-030-deal:before { content: "\f11d"; }
+.flaticon-031-data:before { content: "\f11e"; }
+.flaticon-032-coffee-cup:before { content: "\f11f"; }
+.flaticon-033-jigsaw:before { content: "\f120"; }
+.flaticon-034-business:before { content: "\f121"; }
+.flaticon-035-budget:before { content: "\f122"; }
+.flaticon-036-identity:before { content: "\f123"; }
